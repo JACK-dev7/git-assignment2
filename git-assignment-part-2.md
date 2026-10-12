@@ -1,6 +1,6 @@
 # DataGrokr Git Assignment Part II
 
-**Name:** <your-name>
+**Name:** siddalingesh neraki
 
 ---
 
@@ -32,7 +32,7 @@ Make sure you have these installed:
 1. Clone the repository:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/JACK-dev7/git-assignment2/tree/master
    cd country-capital-api
    ```
 
